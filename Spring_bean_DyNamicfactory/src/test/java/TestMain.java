@@ -8,9 +8,9 @@ import java.util.List;
 
 public class TestMain {
     public static void main(String[] args) throws IllegalAccessException, InstantiationException, ClassNotFoundException {
-        ClassPathXmlApplicationContext factory = new ClassPathXmlApplicationContext("MySpring.iml");
-        Teacher teacher = (Teacher) factory.getBean("teacher");
-        System.out.println("工厂类创建读取");
+        ClassPathXmlApplicationContext factory = new ClassPathXmlApplicationContext("spring_config.xml");
+        Teacher t = (Teacher) factory.getBean("teacher");
+        System.out.println("t = " + t);
 
     }
 }

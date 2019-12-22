@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySpring:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySpring_jar</output-path>
+    <root id="archive" name="MySpring.jar">
+      <element id="module-output" name="MySpring" />
+      <element id="library" level="project" name="Spring_bean_DyNamicfactory" />
+    </root>
+  </artifact>
+</component>
