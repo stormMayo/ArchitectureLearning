@@ -16,3 +16,14 @@ spring AOP  通知种类：  设置次要业务（被监听方法）绑定执行
 			}catch(Exception){
 				切面
 			}
+
+Spring AOP Advisor:(顾问)	
+		1.一种织入方式
+		2.实际上Advice封装版
+		3.可以动态的将切面指定对应切入点
+
+Spring AOP Advisor继承实现关系
+		Advisor
+		PointCutAdvisor
+		Advice   PointCut
+		次要业务   目标对象和目标方法	
