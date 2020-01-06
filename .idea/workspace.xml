@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9be3177-ae09-47c7-86a1-49b7558526e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Spring_bean_DyNamicfactory/src/test/java/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_bean_DyNamicfactory/src/test/java/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Spring_AOP_Advisor/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/08_Spring_AOP_Advisor/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Spring_AOP_Advisor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/08_Spring_AOP_Advisor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo3/src/main/java/com/kkb/spring/configuration/DaoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo3/src/main/java/com/mayol/spring/configuration/DaoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo3/src/main/java/com/kkb/spring/configuration/SpringConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo3/src/main/java/com/mayol/spring/configuration/SpringConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo3/src/main/java/com/kkb/spring/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo3/src/main/java/com/mayol/spring/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo3/src/main/java/com/kkb/spring/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo3/src/main/java/com/mayol/spring/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo3/src/main/java/com/kkb/spring/test/TestSpringIoC.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo3/src/main/java/com/mayol/spring/test/TestSpringIoC.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,20 +20,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VKZschZTLbJBhaRAXjdOtC0AYJ" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -42,6 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577003954255</updated>
       <workItem from="1577003955581" duration="95000" />
+      <workItem from="1578316276727" duration="599000" />
+      <workItem from="1578321875331" duration="442000" />
     </task>
     <servers />
   </component>
@@ -53,10 +68,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="260" key="git4idea.merge.GitPullDialog" timestamp="1578321933152">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="389" y="260" key="git4idea.merge.GitPullDialog/0.23.1440.877@0.23.1440.877" timestamp="1578321933152" />
   </component>
 </project>
